@@ -1,0 +1,32 @@
+body {
+  margin: 0px;
+  text-align: center;
+  line-height: 1.5;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin: 0px auto;
+  display: block;
+}
+
+#main {
+  background-color: aquamarine;
+  padding: 20px;
+  margin: 20px 5px;
+}
+
+#img-div {
+  background-color: white;
+}
+
+ul {
+  max-width: 550px;
+  text-align: left;
+  margin: 0 auto 50px;
+}
+
+li {
+  margin: 16px 0px;
+}
